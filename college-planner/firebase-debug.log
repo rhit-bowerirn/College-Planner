@@ -1,0 +1,26 @@
+[debug] [2022-11-14T15:58:21.706Z] ----------------------------------------------------------------------
+[debug] [2022-11-14T15:58:21.709Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\bowerirn\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2022-11-14T15:58:21.709Z] CLI Version:   11.14.3
+[debug] [2022-11-14T15:58:21.710Z] Platform:      win32
+[debug] [2022-11-14T15:58:21.710Z] Node Version:  v18.12.1
+[debug] [2022-11-14T15:58:21.711Z] Time:          Mon Nov 14 2022 10:58:21 GMT-0500 (Eastern Standard Time)
+[debug] [2022-11-14T15:58:21.711Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-14T15:58:21.815Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-11-14T15:58:21.816Z] > authorizing via signed-in user (rnbowering@gmail.com)
+[debug] [2022-11-14T15:58:21.816Z] [iam] checking project bowering-mattick-280-project for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2022-11-14T15:58:21.819Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/bowering-mattick-280-project:testIamPermissions [none]
+[debug] [2022-11-14T15:58:21.820Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/bowering-mattick-280-project:testIamPermissions x-goog-quota-user=projects/bowering-mattick-280-project
+[debug] [2022-11-14T15:58:21.820Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/bowering-mattick-280-project:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2022-11-14T15:58:22.032Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/bowering-mattick-280-project:testIamPermissions 200
+[debug] [2022-11-14T15:58:22.033Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/bowering-mattick-280-project:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2022-11-14T15:58:22.034Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/bowering-mattick-280-project [none]
+[debug] [2022-11-14T15:58:22.408Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/bowering-mattick-280-project 200
+[debug] [2022-11-14T15:58:22.408Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/bowering-mattick-280-project {"projectId":"bowering-mattick-280-project","projectNumber":"548980482929","displayName":"Bowering-Mattick 280 Project","name":"projects/bowering-mattick-280-project","resources":{"hostingSite":"bowering-mattick-280-project","storageBucket":"bowering-mattick-280-project.appspot.com","locationId":"us-east1"},"state":"ACTIVE","etag":"1_e7fbce51-954f-47a9-9ef2-f45c92082842"}
+[debug] [2022-11-14T15:58:28.692Z] defaultcredentials: writing to file C:\Users\bowerirn\AppData\Roaming\firebase\rnbowering_gmail_com_application_default_credentials.json
+[debug] [2022-11-14T15:58:28.696Z] >>> [apiv2][query] GET https://firebasehosting.googleapis.com/v1beta1/projects/bowering-mattick-280-project/sites pageToken=&pageSize=10
+[debug] [2022-11-14T15:58:29.065Z] <<< [apiv2][status] GET https://firebasehosting.googleapis.com/v1beta1/projects/bowering-mattick-280-project/sites 200
+[debug] [2022-11-14T15:58:29.065Z] <<< [apiv2][body] GET https://firebasehosting.googleapis.com/v1beta1/projects/bowering-mattick-280-project/sites {"sites":[{"name":"projects/bowering-mattick-280-project/sites/bowering-mattick-280-project","defaultUrl":"https://bowering-mattick-280-project.web.app","appId":"1:548980482929:web:68f64719a6a125d6db8cd0","type":"DEFAULT_SITE"}]}
+[debug] [2022-11-14T15:58:29.066Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:548980482929:web:68f64719a6a125d6db8cd0/config [none]
+[debug] [2022-11-14T15:58:29.465Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:548980482929:web:68f64719a6a125d6db8cd0/config 200
+[debug] [2022-11-14T15:58:29.465Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:548980482929:web:68f64719a6a125d6db8cd0/config {"projectId":"bowering-mattick-280-project","appId":"1:548980482929:web:68f64719a6a125d6db8cd0","storageBucket":"bowering-mattick-280-project.appspot.com","locationId":"us-east1","apiKey":"AIzaSyBwF2eO2E8G0SfRkQMPMJkWHkHaXk6Usa0","authDomain":"bowering-mattick-280-project.firebaseapp.com","messagingSenderId":"548980482929","measurementId":"G-GX94K1E27J"}
