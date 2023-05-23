@@ -1,0 +1,4072 @@
+{
+    "colleges": [
+     {
+      "name": "Adams State University\nAlamosa, Colorado",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Business Administration, Management and Operations, Other"
+       },
+       {
+        "name": "Business/Commerce, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Communication and Media Studies, Other"
+       },
+       {
+        "name": "Public Relations, Advertising, and Applied Communication"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Early Childhood Education and Teaching"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "Higher Education/Higher Education Administration"
+       },
+       {
+        "name": "Music Teacher Education"
+       },
+       {
+        "name": "Physical Education Teaching and Coaching"
+       },
+       {
+        "name": "Special Education and Teaching, General"
+       },
+       {
+        "name": "Teacher Education, Multiple Levels"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "Creative Writing"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Registered Nursing/Registered Nurse"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "American History (United States)"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Humanities/Humanistic Studies"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities, Other"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Cultural Resource Management and Policy Analysis"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Exercise Science and Kinesiology"
+       },
+       {
+        "name": "Sports Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Geology/Earth Science, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Counseling Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Psychology, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Public Administration"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "American Government and Politics (United States)"
+       },
+       {
+        "name": "Criminology"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Dramatic/Theatre Arts and Stagecraft, Other"
+       },
+       {
+        "name": "Fine/Studio Arts, General"
+       },
+       {
+        "name": "Music History, Literature, and Theory"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division II with football\nVarsity Men's and Women's TeamsMenWomen\nBaseball50–\nBasketball3827\nGolf–5\nLacrosse4119\nSoccer3841\nSoftball–33\nSwimming1019\nTrack and Field, Indoor6328\nTrack and Field, X-Country3518\nVolleyball–20\nWrestling36–\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.adams.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.adams.edu/",
+      "ratio": "11 to 1",
+      "population": "3,138 (1,835 undergraduate)",
+      "type": "4-year, Public"
+     },
+     {
+      "name": "Adrian College\nAdrian, Michigan",
+      "tuition": "$39,107",
+      "majors": [
+       {
+        "name": "Area, Ethnic, Cultural, Gender, and Group Studies"
+       },
+       {
+        "name": "Asian Studies/Civilization"
+       },
+       {
+        "name": "Japanese Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biochemistry"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Actuarial Science"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Digital Marketing"
+       },
+       {
+        "name": "Entrepreneurship/Entrepreneurial Studies"
+       },
+       {
+        "name": "Fashion Merchandising"
+       },
+       {
+        "name": "Finance, General"
+       },
+       {
+        "name": "Financial Planning and Services"
+       },
+       {
+        "name": "Human Resources Management/Personnel Administration, General"
+       },
+       {
+        "name": "International Business/Trade/Commerce"
+       },
+       {
+        "name": "Logistics, Materials, and Supply Chain Management"
+       },
+       {
+        "name": "Marketing/Marketing Management, General"
+       },
+       {
+        "name": "Organizational Leadership"
+       },
+       {
+        "name": "Project Management"
+       },
+       {
+        "name": "Selling Skills and Sales Operations"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Digital Communication and Media/Multimedia"
+       },
+       {
+        "name": "Mass Communication/Media Studies"
+       },
+       {
+        "name": "Public Relations, Advertising, and Applied Communication"
+       },
+       {
+        "name": "Public Relations/Image Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer Science"
+       },
+       {
+        "name": "Web Page, Digital/Multimedia and Information Resources Design"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Art Teacher Education"
+       },
+       {
+        "name": "Biology Teacher Education"
+       },
+       {
+        "name": "Curriculum and Instruction"
+       },
+       {
+        "name": "Early Childhood Education and Teaching"
+       },
+       {
+        "name": "English/Language Arts Teacher Education"
+       },
+       {
+        "name": "Foreign Language Teacher Education"
+       },
+       {
+        "name": "Higher Education/Higher Education Administration"
+       },
+       {
+        "name": "History Teacher Education"
+       },
+       {
+        "name": "Mathematics Teacher Education"
+       },
+       {
+        "name": "Music Teacher Education"
+       },
+       {
+        "name": "Physical Education Teaching and Coaching"
+       },
+       {
+        "name": "Science Teacher Education/General Science Teacher Education"
+       },
+       {
+        "name": "Social Studies Teacher Education"
+       },
+       {
+        "name": "Spanish Language Teacher Education"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Family and Consumer Sciences/Human Sciences"
+       },
+       {
+        "name": "Facilities Planning and Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "German Language and Literature"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Athletic Training/Trainer"
+       },
+       {
+        "name": "Health Services Administration"
+       },
+       {
+        "name": "Health/Health Care Administration/Management"
+       },
+       {
+        "name": "Public Health, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+       },
+       {
+        "name": "Corrections Administration"
+       },
+       {
+        "name": "Corrections and Criminal Justice, Other"
+       },
+       {
+        "name": "Criminal Justice/Law Enforcement Administration"
+       },
+       {
+        "name": "Crisis/Emergency/Disaster Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "International/Globalization Studies"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, General"
+       },
+       {
+        "name": "Science, Technology and Society"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Science"
+       },
+       {
+        "name": "Environmental Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Exercise Science and Kinesiology"
+       },
+       {
+        "name": "Sport and Fitness Administration/Management"
+       },
+       {
+        "name": "Sports, Kinesiology, and Physical Education/Fitness, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Philosophy"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Geological and Earth Sciences/Geosciences, Other"
+       },
+       {
+        "name": "Geology/Earth Science, General"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Social Work"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Political Economy"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Art/Art Studies, General"
+       },
+       {
+        "name": "Dance, General"
+       },
+       {
+        "name": "Film/Cinema/Media Studies"
+       },
+       {
+        "name": "Fine and Studio Arts Management"
+       },
+       {
+        "name": "Fine/Studio Arts, General"
+       },
+       {
+        "name": "Graphic Design"
+       },
+       {
+        "name": "Interior Design"
+       },
+       {
+        "name": "Music Performance, General"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Musical Theatre"
+       },
+       {
+        "name": "Theatre/Theatre Arts Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division III with football\nVarsity Men's and Women's TeamsMenWomen\nAll Track Combined6552\nBaseball52–\nBasketball2724\nBowling1312\nEquestrian–16\nFootball147–\nGolf1210\nGymnastics–26\nIce Hockey2627\nLacrosse3025\nRowing1510\nSoccer2825\nSoftball–33\nTennis1012\nVolleyball1427\nWrestling5930\nOther Sports–60\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.adrian.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.adrian.edu/",
+      "ratio": "15 to 1",
+      "population": "1,871 (1,805 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "AdventHealth University\nOrlando, Florida",
+      "tuition": "$20,340",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biomedical Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Education/Teaching of Individuals with Multiple Disabilities"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Diagnostic Medical Sonography/Sonographer and Ultrasound Technician"
+       },
+       {
+        "name": "Health Professions and Related Clinical Sciences, Other"
+       },
+       {
+        "name": "Health Services/Allied Health/Health Sciences, General"
+       },
+       {
+        "name": "Health/Health Care Administration/Management"
+       },
+       {
+        "name": "Health/Medical Preparatory Programs, Other"
+       },
+       {
+        "name": "Magnetic Resonance Imaging (MRI) Technology/Technician"
+       },
+       {
+        "name": "Nuclear Medical Technology/Technologist"
+       },
+       {
+        "name": "Nurse Anesthetist"
+       },
+       {
+        "name": "Nursing Administration"
+       },
+       {
+        "name": "Occupational Therapist Assistant"
+       },
+       {
+        "name": "Occupational Therapy/Therapist"
+       },
+       {
+        "name": "Physical Therapy/Therapist"
+       },
+       {
+        "name": "Physician Assistant"
+       },
+       {
+        "name": "Radiologic Technology/Science - Radiographer"
+       },
+       {
+        "name": "Registered Nursing/Registered Nurse"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Chaplain/Chaplaincy Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.ahu.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.ahu.edu/",
+      "ratio": "6 to 1",
+      "population": "1,667 (1,144 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Agnes Scott College\nDecatur, Georgia",
+      "tuition": "$44,250",
+      "majors": [
+       {
+        "name": "Area, Ethnic, Cultural, Gender, and Group Studies"
+       },
+       {
+        "name": "African Studies"
+       },
+       {
+        "name": "Women's Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biochemistry"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Neuroscience"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Science/Technology Management"
+       },
+       {
+        "name": "Social Entrepreneurship"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Digital Communication and Media/Multimedia"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "Creative Writing"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "Classics and Classical Languages, Literatures, and Linguistics, General"
+       },
+       {
+        "name": "French Language and Literature"
+       },
+       {
+        "name": "German Language and Literature"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Public Health, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Mathematics, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Data Visualization"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Philosophy"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Religion/Religious Studies, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Astrophysics"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Economics, General"
+       },
+       {
+        "name": "International Relations and Affairs"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Research Methodology and Quantitative Methods"
+       },
+       {
+        "name": "Social Sciences, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Art History, Criticism and Conservation"
+       },
+       {
+        "name": "Dance, General"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Fine/Studio Arts, General"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.agnesscott.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.agnesscott.edu/",
+      "ratio": "12 to 1",
+      "population": "1,109 (1,063 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Albertus Magnus College\nNew Haven, Connecticut",
+      "tuition": "$36,442",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Business/Managerial Economics"
+       },
+       {
+        "name": "Finance, General"
+       },
+       {
+        "name": "Financial Planning and Services"
+       },
+       {
+        "name": "Management Information Systems, General"
+       },
+       {
+        "name": "Organizational Behavior Studies"
+       },
+       {
+        "name": "Telecommunications Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Digital Communication and Media/Multimedia"
+       },
+       {
+        "name": "Speech Communication and Rhetoric"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Education, General"
+       },
+       {
+        "name": "Reading Teacher Education"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "Creative Writing"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Art Therapy/Therapist"
+       },
+       {
+        "name": "Health Services/Allied Health/Health Sciences, General"
+       },
+       {
+        "name": "Health/Health Care Administration/Management"
+       },
+       {
+        "name": "Mental Health Counseling/Counselor"
+       },
+       {
+        "name": "Substance Abuse/Addiction Counseling"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+       },
+       {
+        "name": "Criminal Justice/Safety Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "General Studies"
+       },
+       {
+        "name": "Humanities/Humanistic Studies"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "International/Globalization Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Sport and Fitness Administration/Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Philosophy and Religious Studies, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Community Organization and Advocacy"
+       },
+       {
+        "name": "Human Services, General"
+       },
+       {
+        "name": "Public Administration"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Social Sciences, General"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Art/Art Studies, General"
+       },
+       {
+        "name": "Arts, Entertainment, and Media Management, General"
+       },
+       {
+        "name": "Fine Arts and Art Studies, Other"
+       },
+       {
+        "name": "Game and Interactive Media Design"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division III without football\nVarsity Men's and Women's TeamsMenWomen\nBaseball30–\nBasketball–11\nGolf5–\nIce Hockey31–\nLacrosse25–\nSoccer2822\nSoftball–24\nSwimming–10\nTennis1011\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.albertus.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=www.albertus.edu/",
+      "ratio": "14 to 1",
+      "population": "1,328 (1,031 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Albion College\nAlbion, Michigan",
+      "tuition": "$53,090",
+      "majors": [
+       {
+        "name": "Area, Ethnic, Cultural, Gender, and Group Studies"
+       },
+       {
+        "name": "Ethnic Studies"
+       },
+       {
+        "name": "Ethnic, Cultural Minority, Gender, and Group Studies, Other"
+       },
+       {
+        "name": "Women's Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biochemistry"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Actuarial Science"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Business/Commerce, General"
+       },
+       {
+        "name": "Finance, General"
+       },
+       {
+        "name": "Marketing/Marketing Management, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Communication and Media Studies, Other"
+       },
+       {
+        "name": "Communication, General"
+       },
+       {
+        "name": "Mass Communication/Media Studies"
+       },
+       {
+        "name": "Organizational Communication, General"
+       },
+       {
+        "name": "Public Relations, Advertising, and Applied Communication"
+       },
+       {
+        "name": "Speech Communication and Rhetoric"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Art Teacher Education"
+       },
+       {
+        "name": "Biology Teacher Education"
+       },
+       {
+        "name": "Chemistry Teacher Education"
+       },
+       {
+        "name": "Earth Science Teacher Education"
+       },
+       {
+        "name": "English/Language Arts Teacher Education"
+       },
+       {
+        "name": "French Language Teacher Education"
+       },
+       {
+        "name": "German Language Teacher Education"
+       },
+       {
+        "name": "History Teacher Education"
+       },
+       {
+        "name": "Mathematics Teacher Education"
+       },
+       {
+        "name": "Music Teacher Education"
+       },
+       {
+        "name": "Physics Teacher Education"
+       },
+       {
+        "name": "Psychology Teacher Education"
+       },
+       {
+        "name": "Science Teacher Education/General Science Teacher Education"
+       },
+       {
+        "name": "Social Studies Teacher Education"
+       },
+       {
+        "name": "Spanish Language Teacher Education"
+       },
+       {
+        "name": "Teacher Education and Professional Development, Specific Subject Areas, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "Creative Writing"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Professional, Technical, Business, and Scientific Writing"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "French Language and Literature"
+       },
+       {
+        "name": "German Language and Literature"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Athletic Training/Trainer"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematical Statistics and Probability"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "International/Globalization Studies"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, Other"
+       },
+       {
+        "name": "Sustainability Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Science"
+       },
+       {
+        "name": "Environmental Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Exercise Science and Kinesiology"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Philosophy"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Geology/Earth Science, General"
+       },
+       {
+        "name": "Physics and Astronomy"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Physics, Other"
+       },
+       {
+        "name": "Theoretical and Mathematical Physics"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Research and Experimental Psychology, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Public Policy Analysis, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Anthropology, General"
+       },
+       {
+        "name": "Economics, General"
+       },
+       {
+        "name": "International Economics"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Social Sciences, General"
+       },
+       {
+        "name": "Sociology and Anthropology"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Art History, Criticism and Conservation"
+       },
+       {
+        "name": "Art/Art Studies, General"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Fine and Studio Arts Management"
+       },
+       {
+        "name": "Fine/Studio Arts, General"
+       },
+       {
+        "name": "Music Performance, General"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division III with football\nVarsity Men's and Women's TeamsMenWomen\nAll Track Combined8468\nBaseball29–\nBasketball2319\nFootball108–\nGolf910\nLacrosse3317\nSoccer2324\nSoftball–23\nSwimming and Diving2126\nTennis119\nVolleyball–24\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.albion.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.albion.edu/",
+      "ratio": "11 to 1",
+      "population": "1,523 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Albright College\nReading, Pennsylvania",
+      "tuition": "$27,678",
+      "majors": [
+       {
+        "name": "Area, Ethnic, Cultural, Gender, and Group Studies"
+       },
+       {
+        "name": "American/United States Studies/Civilization"
+       },
+       {
+        "name": "Latin American Studies"
+       },
+       {
+        "name": "Women's Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biochemistry"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Business/Commerce, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Speech Communication and Rhetoric"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer and Information Sciences, General"
+       },
+       {
+        "name": "Information Science/Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Art Teacher Education"
+       },
+       {
+        "name": "Early Childhood Education and Teaching"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "Junior High/Intermediate/Middle School Education and Teaching"
+       },
+       {
+        "name": "Secondary Education and Teaching"
+       },
+       {
+        "name": "Special Education and Teaching, General"
+       },
+       {
+        "name": "Teaching English as a Second or Foreign Language/ESL Language Instructor"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "Foreign Languages and Literatures, General"
+       },
+       {
+        "name": "French Language and Literature"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Public Health, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Science"
+       },
+       {
+        "name": "Environmental Studies"
+       },
+       {
+        "name": "Forestry, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Philosophy"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Optics/Optical Sciences"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Behavioral Neuroscience"
+       },
+       {
+        "name": "Health/Medical Psychology"
+       },
+       {
+        "name": "Industrial and Organizational Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Criminology"
+       },
+       {
+        "name": "Economics, General"
+       },
+       {
+        "name": "International Relations and Affairs"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Social Sciences, General"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Urban Studies/Affairs"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Art/Art Studies, General"
+       },
+       {
+        "name": "Arts, Entertainment, and Media Management, General"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Fashion/Apparel Design"
+       },
+       {
+        "name": "Game and Interactive Media Design"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division III with football\nVarsity Men's and Women's TeamsMenWomen\nBaseball32–\nBasketball2413\nField Hockey–15\nFootball79–\nGolf85\nLacrosse2429\nSoccer2722\nSoftball–15\nSwimming129\nTennis78\nTrack and Field, Indoor1014\nTrack and Field, Outdoor59\nVolleyball–16\nVarsity Coed TeamsMenWomen\nOther Sports222\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.albright.edu/home/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.albright.edu/home/",
+      "ratio": "11 to 1",
+      "population": "1,465 (1,375 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Alfred University\nAlfred, New York",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Finance, General"
+       },
+       {
+        "name": "Marketing/Marketing Management, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Digital Communication and Media/Multimedia"
+       },
+       {
+        "name": "Speech Communication and Rhetoric"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Art Teacher Education"
+       },
+       {
+        "name": "College Student Counseling and Personnel Services"
+       },
+       {
+        "name": "Counselor Education/School Counseling and Guidance Services"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "English/Language Arts Teacher Education"
+       },
+       {
+        "name": "Reading Teacher Education"
+       },
+       {
+        "name": "Social Studies Teacher Education"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Engineering"
+       },
+       {
+        "name": "Bioengineering and Biomedical Engineering"
+       },
+       {
+        "name": "Ceramic Sciences and Engineering"
+       },
+       {
+        "name": "Electrical and Electronics Engineering"
+       },
+       {
+        "name": "Engineering, Other"
+       },
+       {
+        "name": "Materials Engineering"
+       },
+       {
+        "name": "Mechanical Engineering"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics, Other"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Athletic Training/Trainer"
+       },
+       {
+        "name": "Health Professions and Related Clinical Sciences, Other"
+       },
+       {
+        "name": "Health/Health Care Administration/Management"
+       },
+       {
+        "name": "Mental Health Counseling/Counselor"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+       },
+       {
+        "name": "Criminal Justice/Law Enforcement Administration"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Humanities/Humanistic Studies"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Mathematics, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Biological and Physical Sciences"
+       },
+       {
+        "name": "Gerontology"
+       },
+       {
+        "name": "International/Globalization Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Philosophy"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Geology/Earth Science, General"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "School Psychology"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Public Administration"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Art History, Criticism and Conservation"
+       },
+       {
+        "name": "Ceramic Arts and Ceramics"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Fine/Studio Arts, General"
+       },
+       {
+        "name": "Painting"
+       },
+       {
+        "name": "Sculpture"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division III with football\nVarsity Men's and Women's TeamsMenWomen\nBasketball2314\nFootball138–\nLacrosse5020\nSoccer3427\nSoftball–24\nSwimming and Diving3418\nTennis96\nTrack and Field, Outdoor2932\nTrack and Field, X-Country127\nVolleyball–16\nOther Sports–22\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.alfred.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.alfred.edu/",
+      "ratio": "9 to 1",
+      "population": "1,982 (1,485 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Allegheny College\nMeadville, Pennsylvania",
+      "tuition": "$52,530",
+      "majors": [
+       {
+        "name": "Area, Ethnic, Cultural, Gender, and Group Studies"
+       },
+       {
+        "name": "Ethnic, Cultural Minority, Gender, and Group Studies, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biochemistry"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Neuroscience"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business/Managerial Economics"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Communication, General"
+       },
+       {
+        "name": "Speech Communication and Rhetoric"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer Science"
+       },
+       {
+        "name": "Informatics"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "French Language and Literature"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "International Public Health/International Health"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Biological and Physical Sciences"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, Other"
+       },
+       {
+        "name": "Sustainability Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Science"
+       },
+       {
+        "name": "Environmental Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Philosophy"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Geological and Earth Sciences/Geosciences, Other"
+       },
+       {
+        "name": "Geology/Earth Science, General"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Community Organization and Advocacy"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Economics, General"
+       },
+       {
+        "name": "International Relations and Affairs"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Design and Applied Arts, Other"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Film/Cinema/Media Studies"
+       },
+       {
+        "name": "Fine Arts and Art Studies, Other"
+       },
+       {
+        "name": "Fine/Studio Arts, General"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division III with football\nVarsity Men's and Women's TeamsMenWomen\nBaseball39–\nBasketball1418\nGolf1010\nLacrosse3221\nSoftball–15\nSwimming1723\nTennis1212\nTrack and Field, Outdoor3046\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "allegheny.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=allegheny.edu/",
+      "ratio": "9 to 1",
+      "population": "1,575 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Alma College\nAlma, Michigan",
+      "tuition": "$43,872",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biochemistry"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Biotechnology"
+       },
+       {
+        "name": "Neuroscience"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Finance, General"
+       },
+       {
+        "name": "International Business/Trade/Commerce"
+       },
+       {
+        "name": "Marketing/Marketing Management, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Communication, General"
+       },
+       {
+        "name": "Digital Communication and Media/Multimedia"
+       },
+       {
+        "name": "Public Relations, Advertising, and Applied Communication, Other"
+       },
+       {
+        "name": "Speech Communication and Rhetoric"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Art Teacher Education"
+       },
+       {
+        "name": "Business and Innovation/Entrepreneurship Teacher Education"
+       },
+       {
+        "name": "Chemistry Teacher Education"
+       },
+       {
+        "name": "Computer Teacher Education"
+       },
+       {
+        "name": "Education, General"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "English/Language Arts Teacher Education"
+       },
+       {
+        "name": "History Teacher Education"
+       },
+       {
+        "name": "Mathematics Teacher Education"
+       },
+       {
+        "name": "Music Teacher Education"
+       },
+       {
+        "name": "Physical Education Teaching and Coaching"
+       },
+       {
+        "name": "Science Teacher Education/General Science Teacher Education"
+       },
+       {
+        "name": "Secondary Education and Teaching"
+       },
+       {
+        "name": "Social Studies Teacher Education"
+       },
+       {
+        "name": "Spanish Language Teacher Education"
+       },
+       {
+        "name": "Special Education and Teaching, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Engineering"
+       },
+       {
+        "name": "Engineering Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics, Other"
+       },
+       {
+        "name": "French Language and Literature"
+       },
+       {
+        "name": "German Language and Literature"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Athletic Training/Trainer"
+       },
+       {
+        "name": "Health and Wellness, General"
+       },
+       {
+        "name": "Health/Health Care Administration/Management"
+       },
+       {
+        "name": "Registered Nursing/Registered Nurse"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Philosophy"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Anthropology, General"
+       },
+       {
+        "name": "Economics, General"
+       },
+       {
+        "name": "International Relations and Affairs"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Sociology and Anthropology"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Art/Art Studies, General"
+       },
+       {
+        "name": "Dance, General"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Music Performance, General"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division III with football\nVarsity Men's and Women's TeamsMenWomen\nAll Track Combined9480\nBaseball40–\nBasketball3024\nBowling–15\nFootball148–\nGolf911\nLacrosse3426\nSoccer3238\nSoftball–38\nSwimming1832\nTennis815\nVolleyball–22\nWrestling46–\nOther Sports–72\nVarsity Coed TeamsMenWomen\nOther Sports4926\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "alma.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=alma.edu/",
+      "ratio": "13 to 1",
+      "population": "1,353 (1,340 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Alpena Community College\nAlpena, Michigan",
+      "majors": [
+       {
+        "name": "Agricultural/Animal/Plant/Veterinary Science and Related Fields"
+       },
+       {
+        "name": "Pre-Veterinary Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting Technology/Technician and Bookkeeping"
+       },
+       {
+        "name": "Administrative Assistant and Secretarial Science, General"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Business/Office Automation/Technology/Data Entry"
+       },
+       {
+        "name": "Entrepreneurship/Entrepreneurial Studies"
+       },
+       {
+        "name": "Executive Assistant/Executive Secretary"
+       },
+       {
+        "name": "General Office Occupations and Clerical Services"
+       },
+       {
+        "name": "Marketing/Marketing Management, General"
+       },
+       {
+        "name": "Selling Skills and Sales Operations"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Broadcast Journalism"
+       },
+       {
+        "name": "Journalism"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communications Technologies/Technicians and Support Services"
+       },
+       {
+        "name": "Graphic and Printing Equipment Operator, General Production"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer and Information Sciences, General"
+       },
+       {
+        "name": "Information Science/Studies"
+       },
+       {
+        "name": "Network and System Administration/Administrator"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Construction Trades"
+       },
+       {
+        "name": "Construction Trades, General"
+       },
+       {
+        "name": "Construction Trades, Other"
+       },
+       {
+        "name": "Electrician"
+       },
+       {
+        "name": "Lineworker"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "Physical Education Teaching and Coaching"
+       },
+       {
+        "name": "Secondary Education and Teaching"
+       },
+       {
+        "name": "Teacher Education, Multiple Levels"
+       },
+       {
+        "name": "Trade and Industrial Teacher Education"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Engineering"
+       },
+       {
+        "name": "Engineering, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Engineering/Engineering-related Technologies/Technicians"
+       },
+       {
+        "name": "Architectural Engineering Technologies/Technicians"
+       },
+       {
+        "name": "CAD/CADD Drafting and/or Design Technology/Technician"
+       },
+       {
+        "name": "Civil Engineering Technologies/Technicians"
+       },
+       {
+        "name": "Energy Systems Technology/Technician"
+       },
+       {
+        "name": "Industrial Production Technologies/Technicians, Other"
+       },
+       {
+        "name": "Industrial Technology/Technician"
+       },
+       {
+        "name": "Manufacturing Engineering Technology/Technician"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Family and Consumer Sciences/Human Sciences"
+       },
+       {
+        "name": "Child Care and Support Services Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Clinical Laboratory Science/Medical Technology/Technologist"
+       },
+       {
+        "name": "Health/Medical Preparatory Programs, Other"
+       },
+       {
+        "name": "Licensed Practical/Vocational Nurse Training"
+       },
+       {
+        "name": "Medical Administrative/Executive Assistant and Medical Secretary"
+       },
+       {
+        "name": "Medical Insurance Coding Specialist/Coder"
+       },
+       {
+        "name": "Medical Radiologic Technology/Science - Radiation Therapist"
+       },
+       {
+        "name": "Medical Transcription/Transcriptionist"
+       },
+       {
+        "name": "Medical/Clinical Assistant"
+       },
+       {
+        "name": "Nursing Assistant/Aide and Patient Care Assistant/Aide"
+       },
+       {
+        "name": "Occupational Therapy/Therapist"
+       },
+       {
+        "name": "Pre-Dentistry Studies"
+       },
+       {
+        "name": "Pre-Medicine/Pre-Medical Studies"
+       },
+       {
+        "name": "Pre-Nursing Studies"
+       },
+       {
+        "name": "Pre-Pharmacy Studies"
+       },
+       {
+        "name": "Registered Nursing/Registered Nurse"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+       },
+       {
+        "name": "Corrections"
+       },
+       {
+        "name": "Criminal Justice/Law Enforcement Administration"
+       },
+       {
+        "name": "Criminal Justice/Police Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Legal Professions and Studies"
+       },
+       {
+        "name": "Pre-Law Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "General Studies"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mechanic and Repair Technologies/Technicians"
+       },
+       {
+        "name": "Autobody/Collision and Repair Technology/Technician"
+       },
+       {
+        "name": "Automobile/Automotive Mechanics Technology/Technician"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Biological and Physical Sciences"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Physical Sciences, General"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Precision Production"
+       },
+       {
+        "name": "Machine Tool Technology/Machinist"
+       },
+       {
+        "name": "Tool and Die Technology/Technician"
+       },
+       {
+        "name": "Welding Technology/Welder"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Clinical Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Social Work"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Anthropology, General"
+       },
+       {
+        "name": "Economics, General"
+       },
+       {
+        "name": "Geography"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Transportation and Materials Moving"
+       },
+       {
+        "name": "Marine Science/Merchant Marine Officer"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Visual and Performing Arts, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NJCAA Division II\nVarsity Men's and Women's TeamsMenWomen\nBasketball1310\nSoftball–16\nTrack and Field, X-Country8–\nVolleyball–10\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.alpenacc.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.alpenacc.edu/",
+      "ratio": "14 to 1",
+      "population": "1,487 (all undergraduate)",
+      "type": "4-year, primarily associate's, Public"
+     },
+     {
+      "name": "American International College\nSpringfield, Massachusetts",
+      "tuition": "$39,370",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biochemistry"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Human Resources Development"
+       },
+       {
+        "name": "International Business/Trade/Commerce"
+       },
+       {
+        "name": "Management Information Systems and Services, Other"
+       },
+       {
+        "name": "Management Information Systems, General"
+       },
+       {
+        "name": "Management Science"
+       },
+       {
+        "name": "Marketing/Marketing Management, General"
+       },
+       {
+        "name": "Resort Management"
+       },
+       {
+        "name": "Taxation"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Communication and Media Studies, Other"
+       },
+       {
+        "name": "Communication, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Counselor Education/School Counseling and Guidance Services"
+       },
+       {
+        "name": "Early Childhood Education and Teaching"
+       },
+       {
+        "name": "Education, General"
+       },
+       {
+        "name": "Education/Teaching of Individuals Who are Developmentally Delayed"
+       },
+       {
+        "name": "Educational Leadership and Administration, General"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "International and Comparative Education"
+       },
+       {
+        "name": "Junior High/Intermediate/Middle School Education and Teaching"
+       },
+       {
+        "name": "Reading Teacher Education"
+       },
+       {
+        "name": "Secondary Education and Teaching"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Family Practice Nurse/Nursing"
+       },
+       {
+        "name": "Health and Wellness, General"
+       },
+       {
+        "name": "Health Services/Allied Health/Health Sciences, General"
+       },
+       {
+        "name": "Health/Health Care Administration/Management"
+       },
+       {
+        "name": "Mental Health Counseling/Counselor"
+       },
+       {
+        "name": "Nursing Administration"
+       },
+       {
+        "name": "Nursing Education"
+       },
+       {
+        "name": "Occupational Therapy/Therapist"
+       },
+       {
+        "name": "Physical Therapy/Therapist"
+       },
+       {
+        "name": "Public Health, General"
+       },
+       {
+        "name": "Registered Nursing/Registered Nurse"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+       },
+       {
+        "name": "Criminal Justice/Safety Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "General Studies"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Biological and Physical Sciences"
+       },
+       {
+        "name": "Human Biology"
+       },
+       {
+        "name": "International/Globalization Studies"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Exercise Science and Kinesiology"
+       },
+       {
+        "name": "Sport and Fitness Administration/Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Clinical Psychology"
+       },
+       {
+        "name": "Counseling Psychology"
+       },
+       {
+        "name": "Educational Psychology"
+       },
+       {
+        "name": "Forensic Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "School Psychology"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Human Services, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Economics, General"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Social Sciences, General"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Digital Arts"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division II with football\nVarsity Men's and Women's TeamsMenWomen\nAll Track Combined7459\nBaseball51–\nBasketball1614\nField Hockey–17\nFootball97–\nGolf52\nIce Hockey34–\nLacrosse2423\nSoccer2737\nSoftball–20\nTennis–5\nVolleyball–15\nWrestling15–\nOther Sports–35\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.aic.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.aic.edu/",
+      "ratio": "17 to 1",
+      "population": "2,244 (1,288 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "American Musical and Dramatic Academy\nNew York, New York",
+      "tuition": "$42,960",
+      "majors": [
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Dramatic/Theatre Arts and Stagecraft, Other"
+       },
+       {
+        "name": "Playwriting and Screenwriting"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.amda.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.amda.edu/",
+      "ratio": "7 to 1",
+      "population": "1,666 (1,656 undergraduate)",
+      "type": "4-year, primarily associate's, Private not-for-profit"
+     },
+     {
+      "name": "Amherst College\nAmherst, Massachusetts",
+      "tuition": "$61,150",
+      "majors": [
+       {
+        "name": "Architecture and Related Services"
+       },
+       {
+        "name": "Architectural History and Criticism, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Area, Ethnic, Cultural, Gender, and Group Studies"
+       },
+       {
+        "name": "African-American/Black Studies"
+       },
+       {
+        "name": "American/United States Studies/Civilization"
+       },
+       {
+        "name": "Asian Studies/Civilization"
+       },
+       {
+        "name": "Latin American Studies"
+       },
+       {
+        "name": "Women's Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biochemistry, Biophysics and Molecular Biology, Other"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Neuroscience"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "Classics and Classical Languages, Literatures, and Linguistics, General"
+       },
+       {
+        "name": "French Language and Literature"
+       },
+       {
+        "name": "German Language and Literature"
+       },
+       {
+        "name": "Russian Language and Literature"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Legal Professions and Studies"
+       },
+       {
+        "name": "American/U.S. Law/Legal Studies/Jurisprudence"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Statistics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Philosophy"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Astronomy"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Geology/Earth Science, General"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Research and Experimental Psychology, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Anthropology, General"
+       },
+       {
+        "name": "Econometrics and Quantitative Economics"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Art/Art Studies, General"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Film/Cinema/Media Studies"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division III with football\nVarsity Men's and Women's TeamsMenWomen\nBaseball19–\nGolf88\nSoftball–17\nTennis–11\nTrack and Field, Outdoor3744\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.amherst.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.amherst.edu/",
+      "ratio": "7 to 1",
+      "population": "1,971 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Anderson University\nAnderson, Indiana",
+      "tuition": "$32,950",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biochemistry"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Business/Commerce, General"
+       },
+       {
+        "name": "Business/Managerial Economics"
+       },
+       {
+        "name": "Entrepreneurship/Entrepreneurial Studies"
+       },
+       {
+        "name": "Finance, General"
+       },
+       {
+        "name": "International Business/Trade/Commerce"
+       },
+       {
+        "name": "Marketing, Other"
+       },
+       {
+        "name": "Marketing/Marketing Management, General"
+       },
+       {
+        "name": "Organizational Leadership"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Mass Communication/Media Studies"
+       },
+       {
+        "name": "Public Relations, Advertising, and Applied Communication"
+       },
+       {
+        "name": "Speech Communication and Rhetoric"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer and Information Systems Security/Auditing/Information Assurance"
+       },
+       {
+        "name": "Computer Science"
+       },
+       {
+        "name": "Information Science/Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Art Teacher Education"
+       },
+       {
+        "name": "Biology Teacher Education"
+       },
+       {
+        "name": "Chemistry Teacher Education"
+       },
+       {
+        "name": "Drama and Dance Teacher Education"
+       },
+       {
+        "name": "Education, General"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "English/Language Arts Teacher Education"
+       },
+       {
+        "name": "French Language Teacher Education"
+       },
+       {
+        "name": "Health Teacher Education"
+       },
+       {
+        "name": "International and Comparative Education"
+       },
+       {
+        "name": "Mathematics Teacher Education"
+       },
+       {
+        "name": "Music Teacher Education"
+       },
+       {
+        "name": "Physical Education Teaching and Coaching"
+       },
+       {
+        "name": "Physics Teacher Education"
+       },
+       {
+        "name": "Science Teacher Education/General Science Teacher Education"
+       },
+       {
+        "name": "Social Studies Teacher Education"
+       },
+       {
+        "name": "Spanish Language Teacher Education"
+       },
+       {
+        "name": "Speech Teacher Education"
+       },
+       {
+        "name": "Teacher Education, Multiple Levels"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Engineering"
+       },
+       {
+        "name": "Computer Engineering, General"
+       },
+       {
+        "name": "Electrical and Electronics Engineering"
+       },
+       {
+        "name": "Engineering Physics/Applied Physics"
+       },
+       {
+        "name": "Mechanical Engineering"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Writing, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Family and Consumer Sciences/Human Sciences"
+       },
+       {
+        "name": "Family Systems"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "French Language and Literature"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Athletic Training/Trainer"
+       },
+       {
+        "name": "Medical Informatics"
+       },
+       {
+        "name": "Nursing Administration"
+       },
+       {
+        "name": "Registered Nursing/Registered Nurse"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Public/Applied History"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+       },
+       {
+        "name": "Criminal Justice/Safety Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Financial Mathematics"
+       },
+       {
+        "name": "Mathematics and Statistics, Other"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Computational Science"
+       },
+       {
+        "name": "Intercultural/Multicultural and Diversity Studies"
+       },
+       {
+        "name": "International/Globalization Studies"
+       },
+       {
+        "name": "Mathematics and Computer Science"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Exercise Science and Kinesiology"
+       },
+       {
+        "name": "Sport and Fitness Administration/Management"
+       },
+       {
+        "name": "Sports, Kinesiology, and Physical Education/Fitness, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Philosophy"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Social Work"
+       },
+       {
+        "name": "Youth Services/Administration"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "International Relations and Affairs"
+       },
+       {
+        "name": "National Security Policy Studies"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Bible/Biblical Studies"
+       },
+       {
+        "name": "Divinity/Ministry"
+       },
+       {
+        "name": "Religious/Sacred Music"
+       },
+       {
+        "name": "Theology and Religious Vocations, Other"
+       },
+       {
+        "name": "Theology/Theological Studies"
+       },
+       {
+        "name": "Youth Ministry"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Arts, Entertainment, and Media Management, General"
+       },
+       {
+        "name": "Cinematography and Film/Video Production"
+       },
+       {
+        "name": "Commercial and Advertising Art"
+       },
+       {
+        "name": "Dance, General"
+       },
+       {
+        "name": "Dance, Other"
+       },
+       {
+        "name": "Design and Visual Communications, General"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Fine/Studio Arts, General"
+       },
+       {
+        "name": "Music Management"
+       },
+       {
+        "name": "Music Performance, General"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Musical Theatre"
+       },
+       {
+        "name": "Voice and Opera"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division III with football\nVarsity Men's and Women's TeamsMenWomen\nAll Track Combined3825\nBaseball45–\nBasketball1517\nFootball74–\nGolf34\nLacrosse1714\nSoccer3234\nSoftball–29\nSwimming1118\nTennis1213\nVolleyball–20\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "anderson.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=anderson.edu/",
+      "ratio": "9 to 1",
+      "population": "1,345 (1,159 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     }
+    ]
+   }

@@ -1,0 +1,4164 @@
+
+{
+    "colleges": [
+     {
+      "name": "Alaska Bible College\nPalmer, Alaska",
+      "tuition": "$10,900",
+      "majors": [
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Bible/Biblical Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.akbible.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.akbible.edu/",
+      "ratio": "5 to 1",
+      "population": "44 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Alaska Pacific University\nAnchorage, Alaska",
+      "tuition": "$20,760",
+      "majors": [
+       {
+        "name": "Area, Ethnic, Cultural, Gender, and Group Studies"
+       },
+       {
+        "name": "American Indian/Native American Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Entrepreneurship/Entrepreneurial Studies"
+       },
+       {
+        "name": "Finance, General"
+       },
+       {
+        "name": "Information Resources Management"
+       },
+       {
+        "name": "Organizational Leadership"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Teacher Education, Multiple Levels"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "Creative Writing"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Community Health and Preventive Medicine"
+       },
+       {
+        "name": "Health Professions and Related Clinical Sciences, Other"
+       },
+       {
+        "name": "Health Services Administration"
+       },
+       {
+        "name": "Nursing Practice"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Biological and Physical Sciences"
+       },
+       {
+        "name": "Sustainability Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Outdoor Education"
+       },
+       {
+        "name": "Parks, Recreation, and Leisure Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Geology/Earth Science, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Counseling Psychology"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.alaskapacific.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.alaskapacific.edu/",
+      "ratio": "8 to 1",
+      "population": "554 (376 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Albany College of Pharmacy and Health Sciences\nAlbany, New York",
+      "tuition": "$37,115",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biological and Biomedical Sciences, Other"
+       },
+       {
+        "name": "Microbiology and Immunology"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Clinical Laboratory Science/Medical Technology/Technologist"
+       },
+       {
+        "name": "Cytotechnology/Cytotechnologist"
+       },
+       {
+        "name": "Health Professions and Related Clinical Sciences, Other"
+       },
+       {
+        "name": "Health Services/Allied Health/Health Sciences, General"
+       },
+       {
+        "name": "Pharmaceutical Sciences"
+       },
+       {
+        "name": "Pharmacy"
+       },
+       {
+        "name": "Public Health, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: USCAA\nVarsity Men's and Women's TeamsMenWomen\nSoccer1820\nTrack and Field, Outdoor1717\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.acphs.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.acphs.edu/",
+      "ratio": "7 to 1",
+      "population": "1,078 (647 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Alderson Broaddus University\nPhilippi, West Virginia",
+      "tuition": "$30,020",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Anatomy"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Business/Commerce, General"
+       },
+       {
+        "name": "Marketing/Marketing Management, General"
+       },
+       {
+        "name": "Organizational Leadership"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Journalism"
+       },
+       {
+        "name": "Mass Communication/Media Studies"
+       },
+       {
+        "name": "Public Relations, Advertising, and Applied Communication, Other"
+       },
+       {
+        "name": "Public Relations/Image Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer and Information Systems Security/Auditing/Information Assurance"
+       },
+       {
+        "name": "Computer Science"
+       },
+       {
+        "name": "Information Technology Project Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Education, General"
+       },
+       {
+        "name": "Educational Leadership and Administration, General"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "Physical Education Teaching and Coaching"
+       },
+       {
+        "name": "Secondary Education and Teaching"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Health/Health Care Administration/Management"
+       },
+       {
+        "name": "Physician Assistant"
+       },
+       {
+        "name": "Registered Nursing/Registered Nurse"
+       },
+       {
+        "name": "Surgical Technology/Technologist"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+       },
+       {
+        "name": "Criminal Justice/Law Enforcement Administration"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Legal Professions and Studies"
+       },
+       {
+        "name": "Legal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "General Studies"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Applied Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Science"
+       },
+       {
+        "name": "Environmental/Natural Resources Management and Policy, General"
+       },
+       {
+        "name": "Environmental/Natural Resources Management and Policy, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Exercise Science and Kinesiology"
+       },
+       {
+        "name": "Sport and Fitness Administration/Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Philosophy"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Public Administration"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division II with football\nVarsity Men's and Women's TeamsMenWomen\nBaseball35–\nBasketball1918\nFootball134–\nLacrosse2221\nSoccer4332\nSoftball–18\nSwimming14\nTrack and Field, Indoor98\nTrack and Field, Outdoor1813\nTrack and Field, X-Country88\nVolleyball1323\nWrestling28–\nOther Sports–25\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "ab.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=ab.edu/",
+      "ratio": "13 to 1",
+      "population": "828 (750 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Alice Lloyd College\nPippa Passes, Kentucky",
+      "tuition": "$14,230",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting and Business/Management"
+       },
+       {
+        "name": "Business/Commerce, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Communication, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "English/Language Arts Teacher Education"
+       },
+       {
+        "name": "Junior High/Intermediate/Middle School Education and Teaching"
+       },
+       {
+        "name": "Mathematics Teacher Education"
+       },
+       {
+        "name": "Physical Education Teaching and Coaching"
+       },
+       {
+        "name": "Science Teacher Education/General Science Teacher Education"
+       },
+       {
+        "name": "Social Studies Teacher Education"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Pre-Nursing Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+       },
+       {
+        "name": "Criminal Justice/Safety Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Exercise Science and Kinesiology"
+       },
+       {
+        "name": "Sport and Fitness Administration/Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NAIA Division I\nVarsity Men's and Women's TeamsMenWomen\nBaseball40–\nBasketball2320\nGolf9–\nSoftball–14\nTrack and Field, Outdoor2215\nTrack and Field, X-Country1512\nVolleyball–21\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.alc.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.alc.edu/",
+      "ratio": "21 to 1",
+      "population": "613 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Allegheny Wesleyan College\nSalem, Ohio",
+      "tuition": "$6,800",
+      "majors": [
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Divinity/Ministry"
+       },
+       {
+        "name": "Missions/Missionary Studies"
+       },
+       {
+        "name": "Religious Education"
+       },
+       {
+        "name": "Worship Ministry"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "awc.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=awc.edu/",
+      "ratio": "10 to 1",
+      "population": "77 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Allen University\nColumbia, South Carolina",
+      "tuition": "$13,340",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+       },
+       {
+        "name": "Criminal Justice/Law Enforcement Administration"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Sport and Fitness Administration/Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Social Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Divinity/Ministry"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division II with football\nVarsity Men's and Women's TeamsMenWomen\nBasketball2020\nTrack and Field, Outdoor2317\nWrestling17–\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.allenuniversity.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.allenuniversity.edu/",
+      "ratio": "15 to 1",
+      "population": "621 (563 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Alverno College\nMilwaukee, Wisconsin",
+      "tuition": "$31,258",
+      "majors": [
+       {
+        "name": "Area, Ethnic, Cultural, Gender, and Group Studies"
+       },
+       {
+        "name": "Women's Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Biomedical Sciences, General"
+       },
+       {
+        "name": "Molecular Biology"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Business Administration, Management and Operations, Other"
+       },
+       {
+        "name": "Business/Commerce, General"
+       },
+       {
+        "name": "Organizational Leadership"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Communication and Media Studies, Other"
+       },
+       {
+        "name": "Speech Communication and Rhetoric"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer and Information Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Administration of Special Education"
+       },
+       {
+        "name": "Adult and Continuing Education and Teaching"
+       },
+       {
+        "name": "Art Teacher Education"
+       },
+       {
+        "name": "Curriculum and Instruction"
+       },
+       {
+        "name": "Early Childhood Education and Teaching"
+       },
+       {
+        "name": "Education, General"
+       },
+       {
+        "name": "Educational Leadership and Administration, General"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "English/Language Arts Teacher Education"
+       },
+       {
+        "name": "Health Teacher Education"
+       },
+       {
+        "name": "Higher Education/Higher Education Administration"
+       },
+       {
+        "name": "Junior High/Intermediate/Middle School Education and Teaching"
+       },
+       {
+        "name": "Mathematics Teacher Education"
+       },
+       {
+        "name": "Reading Teacher Education"
+       },
+       {
+        "name": "Science Teacher Education/General Science Teacher Education"
+       },
+       {
+        "name": "Secondary Education and Teaching"
+       },
+       {
+        "name": "Social Studies Teacher Education"
+       },
+       {
+        "name": "Special Education and Teaching, Other"
+       },
+       {
+        "name": "Teacher Assistant/Aide"
+       },
+       {
+        "name": "Teacher Education and Professional Development, Specific Levels and Methods, Other"
+       },
+       {
+        "name": "Teacher Education and Professional Development, Specific Subject Areas, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Adult Health Nurse/Nursing"
+       },
+       {
+        "name": "Art Therapy/Therapist"
+       },
+       {
+        "name": "Clinical Nurse Specialist"
+       },
+       {
+        "name": "Critical Care Nursing"
+       },
+       {
+        "name": "Family Practice Nurse/Nursing"
+       },
+       {
+        "name": "Geriatric Nurse/Nursing"
+       },
+       {
+        "name": "Music Therapy/Therapist"
+       },
+       {
+        "name": "Nursing Practice"
+       },
+       {
+        "name": "Psychiatric/Mental Health Nurse/Nursing"
+       },
+       {
+        "name": "Registered Nursing/Registered Nurse"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "General Studies"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities, Other"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, Other"
+       },
+       {
+        "name": "Natural Sciences"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Exercise Science and Kinesiology"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Community Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "School Psychology"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Community Organization and Advocacy"
+       },
+       {
+        "name": "Social Work"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "International Relations and Affairs"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Art/Art Studies, General"
+       },
+       {
+        "name": "Design and Applied Arts, Other"
+       },
+       {
+        "name": "Fine Arts and Art Studies, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division III without football\nVarsity Men's and Women's TeamsMenWomen\nBasketball–11\nGolf–1\nSoccer–19\nSoftball–14\nTennis–8\nTrack and Field, X-Country–2\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.alverno.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=www.alverno.edu/",
+      "ratio": "10 to 1",
+      "population": "1,822 (917 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "American Baptist College\nNashville, Tennessee",
+      "tuition": "$12,474",
+      "majors": [
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Entrepreneurship/Entrepreneurial Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "General Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Human Services, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Theology and Religious Vocations, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.abcnash.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.abcnash.edu/",
+      "ratio": "7 to 1",
+      "population": "57 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "American Islamic College\nChicago, Illinois",
+      "tuition": "$7,650",
+      "majors": [
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Islamic Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Divinity/Ministry"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.aicusa.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.aicusa.edu/",
+      "ratio": "2 to 1",
+      "population": "19 (6 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "American Jewish University\nLos Angeles, California",
+      "majors": [
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Business Administration, Management and Operations, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Early Childhood Education and Teaching"
+       },
+       {
+        "name": "Teacher Education, Multiple Levels"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "Literature, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Bioethics/Medical Ethics"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Jewish/Judaic Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Rabbinical Studies"
+       },
+       {
+        "name": "Religious Education"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Film/Cinema/Media Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.aju.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.aju.edu/",
+      "ratio": "2 to 1",
+      "population": "124 (48 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Andrew College\nCuthbert, Georgia",
+      "tuition": "$18,214",
+      "majors": [
+       {
+        "name": "Agricultural/Animal/Plant/Veterinary Science and Related Fields"
+       },
+       {
+        "name": "Agribusiness/Agricultural Business Operations"
+       },
+       {
+        "name": "Agroecology and Sustainable Agriculture"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Speech Communication and Rhetoric"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Education, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Engineering"
+       },
+       {
+        "name": "Engineering, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "General Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Athletic Training/Trainer"
+       },
+       {
+        "name": "Behavioral Aspects of Health"
+       },
+       {
+        "name": "Disease Registry Data Management"
+       },
+       {
+        "name": "Health Services/Allied Health/Health Sciences, General"
+       },
+       {
+        "name": "Registered Nursing/Registered Nurse"
+       },
+       {
+        "name": "Respiratory Care Therapy/Therapist"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+       },
+       {
+        "name": "Criminal Justice/Law Enforcement Administration"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Forestry, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Sport and Fitness Administration/Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Physical Sciences, General"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Social Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Visual and Performing Arts, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NJCAA Division I\nVarsity Men's and Women's TeamsMenWomen\nBaseball35–\nBasketball1511\nGolf5–\nSoccer3214\nSoftball–19\nTrack and Field, X-Country41\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.andrewcollege.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.andrewcollege.edu/",
+      "ratio": "7 to 1",
+      "population": "272 (all undergraduate)",
+      "type": "4-year, primarily associate's, Private not-for-profit"
+     },
+     {
+      "name": "Antioch College\nYellow Springs, Ohio",
+      "tuition": "$37,143",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biomedical Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "General Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Philosophy"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Anthropology, General"
+       },
+       {
+        "name": "Political Economy"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Digital Arts"
+       },
+       {
+        "name": "Fine/Studio Arts, General"
+       },
+       {
+        "name": "Visual and Performing Arts, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "antiochcollege.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=antiochcollege.edu/",
+      "ratio": "7 to 1",
+      "population": "133 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Appalachian Bible College\nMount Hope, West Virginia",
+      "tuition": "$15,830",
+      "majors": [
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Bible/Biblical Studies"
+       },
+       {
+        "name": "Theological and Ministerial Studies, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCCAA Division II\nVarsity Men's and Women's TeamsMenWomen\nBasketball1211\nVolleyball–9\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "abc.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=abc.edu/",
+      "ratio": "7 to 1",
+      "population": "199 (192 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Arkansas Baptist College\nLittle Rock, Arkansas",
+      "tuition": "$8,760",
+      "majors": [
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Business Administration, Management and Operations, Other"
+       },
+       {
+        "name": "Entrepreneurship/Entrepreneurial Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Urban Education and Leadership"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+       },
+       {
+        "name": "Corrections and Criminal Justice, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "General Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Christian Studies"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Human Services, General"
+       },
+       {
+        "name": "Public Administration"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Music Management"
+       },
+       {
+        "name": "Music Performance, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NJCAA Division I\nVarsity Men's and Women's TeamsMenWomen\nBasketball1511\nFootball123–\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.arkansasbaptist.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.arkansasbaptist.edu/",
+      "ratio": "23 to 1",
+      "population": "414 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Arlington Baptist University\nArlington, Texas",
+      "tuition": "$15,247",
+      "majors": [
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business/Commerce, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Teacher Education and Professional Development, Specific Levels and Methods, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "General Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Missions/Missionary Studies"
+       },
+       {
+        "name": "Pastoral Studies/Counseling"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCCAA Division II\nVarsity Men's and Women's TeamsMenWomen\nBaseball15–\nBasketball1820\nSoccer1811\nVolleyball–13\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "abu.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=abu.edu/",
+      "ratio": "18 to 1",
+      "population": "216 (213 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Art Academy of Cincinnati\nCincinnati, Ohio",
+      "tuition": "$35,290",
+      "majors": [
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Art Teacher Education"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "Creative Writing"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Design and Visual Communications, General"
+       },
+       {
+        "name": "Digital Arts"
+       },
+       {
+        "name": "Drawing"
+       },
+       {
+        "name": "Graphic Design"
+       },
+       {
+        "name": "Illustration"
+       },
+       {
+        "name": "Painting"
+       },
+       {
+        "name": "Photography"
+       },
+       {
+        "name": "Printmaking"
+       },
+       {
+        "name": "Sculpture"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.artacademy.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.artacademy.edu/",
+      "ratio": "9 to 1",
+      "population": "239 (234 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Bacone College\nMuskogee, Oklahoma",
+      "tuition": "$14,700",
+      "majors": [
+       {
+        "name": "Area, Ethnic, Cultural, Gender, and Group Studies"
+       },
+       {
+        "name": "American Indian/Native American Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Early Childhood Education and Teaching"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "Physical Education Teaching and Coaching"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Family and Consumer Sciences/Human Sciences"
+       },
+       {
+        "name": "Child Development"
+       },
+       {
+        "name": "Human Development and Family Studies, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Medical Radiologic Technology/Science - Radiation Therapist"
+       },
+       {
+        "name": "Registered Nursing/Registered Nurse"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+       },
+       {
+        "name": "Criminal Justice/Police Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Exercise Science and Kinesiology"
+       },
+       {
+        "name": "Sport and Fitness Administration/Management"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Divinity/Ministry"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Art/Art Studies, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NAIA Division I\nVarsity Men's and Women's TeamsMenWomen\nBaseball49–\nBasketball2517\nGolf62\nSoccer3014\nSoftball–26\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.bacone.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.bacone.edu/",
+      "ratio": "11 to 1",
+      "population": "266 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Bais HaMedrash and Mesivta of Baltimore\nBaltimore, Maryland",
+      "tuition": "$13,100",
+      "majors": [
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Talmudic Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.bhmb.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.bhmb.edu/",
+      "ratio": "12 to 1",
+      "population": "81 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Bais Medrash Elyon\nMonsey, New York",
+      "tuition": "$8,600",
+      "majors": [
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Talmudic Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "baismedroshelyon.com/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=baismedroshelyon.com/",
+      "ratio": "22 to 1",
+      "population": "88 (40 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Bais Medrash Mayan Hatorah\nLakewood, New Jersey",
+      "tuition": "$11,650",
+      "majors": [
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Talmudic Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "baismedrashmayanhatorah.com/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=baismedrashmayanhatorah.com/",
+      "ratio": "3 to 1",
+      "population": "37 (all undergraduate)",
+      "type": "4-year, primarily associate's, Private not-for-profit"
+     },
+     {
+      "name": "Bais Medrash Toras Chesed\nLakewood, New Jersey",
+      "tuition": "$7,200",
+      "majors": [
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Talmudic Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.bmtc.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.bmtc.edu/",
+      "ratio": "15 to 1",
+      "population": "117 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Baptist Bible College\nSpringfield, Missouri",
+      "tuition": "$14,890",
+      "majors": [
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Business/Office Automation/Technology/Data Entry"
+       },
+       {
+        "name": "Organizational Leadership"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Early Childhood Education and Teaching"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "Junior High/Intermediate/Middle School Education and Teaching"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Bible/Biblical Studies"
+       },
+       {
+        "name": "Divinity/Ministry"
+       },
+       {
+        "name": "Missions/Missionary Studies"
+       },
+       {
+        "name": "Pastoral Counseling and Specialized Ministries, Other"
+       },
+       {
+        "name": "Pastoral Studies/Counseling"
+       },
+       {
+        "name": "Religious/Sacred Music"
+       },
+       {
+        "name": "Theology and Religious Vocations, Other"
+       },
+       {
+        "name": "Theology/Theological Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: Other\nVarsity Men's and Women's TeamsMenWomen\nBasketball1810\nGolf3–\nTrack and Field, X-Country–4\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.gobbc.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.gobbc.edu/",
+      "ratio": "11 to 1",
+      "population": "280 (236 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Baptist Health Sciences University\nMemphis, Tennessee",
+      "tuition": "$12,572",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biomedical Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Behavioral Aspects of Health"
+       },
+       {
+        "name": "Clinical Laboratory Science/Medical Technology/Technologist"
+       },
+       {
+        "name": "Diagnostic Medical Sonography/Sonographer and Ultrasound Technician"
+       },
+       {
+        "name": "Electroneurodiagnostic/Electroencephalographic Technology/Technologist"
+       },
+       {
+        "name": "Health/Health Care Administration/Management"
+       },
+       {
+        "name": "Health/Medical Preparatory Programs, Other"
+       },
+       {
+        "name": "Medical Radiologic Technology/Science - Radiation Therapist"
+       },
+       {
+        "name": "Nuclear Medical Technology/Technologist"
+       },
+       {
+        "name": "Nursing Practice"
+       },
+       {
+        "name": "Radiologic Technology/Science - Radiographer"
+       },
+       {
+        "name": "Registered Nursing/Registered Nurse"
+       },
+       {
+        "name": "Respiratory Care Therapy/Therapist"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.baptistu.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.baptistu.edu/",
+      "ratio": "8 to 1",
+      "population": "935 (910 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Baptist Missionary Association Theological Seminary\nJacksonville, Texas",
+      "tuition": "$7,650",
+      "majors": [
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Theology and Religious Vocations, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.bmats.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.bmats.edu/",
+      "ratio": "3 to 1",
+      "population": "112 (51 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Baptist University of the Americas\nSan Antonio, Texas",
+      "tuition": "$6,768",
+      "majors": [
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Humanities/Humanistic Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Intercultural/Multicultural and Diversity Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Theological and Ministerial Studies, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.bua.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.bua.edu/",
+      "ratio": "10 to 1",
+      "population": "156 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Barclay College\nHaviland, Kansas",
+      "tuition": "$23,850",
+      "majors": [
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "General Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Family Psychology"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Bible/Biblical Studies"
+       },
+       {
+        "name": "Divinity/Ministry"
+       },
+       {
+        "name": "Missions/Missionary Studies"
+       },
+       {
+        "name": "Theology and Religious Vocations, Other"
+       },
+       {
+        "name": "Theology/Theological Studies"
+       },
+       {
+        "name": "Worship Ministry"
+       },
+       {
+        "name": "Youth Ministry"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCCAA Division II\nVarsity Men's and Women's TeamsMenWomen\nBasketball1617\nSoccer14–\nTrack and Field, X-Country–2\nVolleyball–9\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.barclaycollege.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.barclaycollege.edu/",
+      "ratio": "9 to 1",
+      "population": "199 (168 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Bard College at Simon's Rock\nGreat Barrington, Massachusetts",
+      "tuition": "$63,583",
+      "majors": [
+       {
+        "name": "Area, Ethnic, Cultural, Gender, and Group Studies"
+       },
+       {
+        "name": "African-American/Black Studies"
+       },
+       {
+        "name": "American/United States Studies/Civilization"
+       },
+       {
+        "name": "Asian Studies/Civilization"
+       },
+       {
+        "name": "Chinese Studies"
+       },
+       {
+        "name": "East Asian Studies"
+       },
+       {
+        "name": "Ethnic, Cultural Minority, Gender, and Group Studies, Other"
+       },
+       {
+        "name": "European Studies/Civilization"
+       },
+       {
+        "name": "French Studies"
+       },
+       {
+        "name": "German Studies"
+       },
+       {
+        "name": "Latin American Studies"
+       },
+       {
+        "name": "Russian Studies"
+       },
+       {
+        "name": "Spanish and Iberian Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Ecology"
+       },
+       {
+        "name": "Neurobiology and Behavior"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Social and Philosophical Foundations of Education"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Engineering"
+       },
+       {
+        "name": "Pre-Engineering"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "American Literature (United States)"
+       },
+       {
+        "name": "Creative Writing"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "General Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "Classics and Classical Languages, Literatures, and Linguistics, General"
+       },
+       {
+        "name": "French Language and Literature"
+       },
+       {
+        "name": "German Language and Literature"
+       },
+       {
+        "name": "Linguistics"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Pre-Medicine/Pre-Medical Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "American History (United States)"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Applied Mathematics, General"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Cultural Studies/Critical Theory and Analysis"
+       },
+       {
+        "name": "Intercultural/Multicultural and Diversity Studies"
+       },
+       {
+        "name": "International/Globalization Studies"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, General"
+       },
+       {
+        "name": "Natural Sciences"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Ethics"
+       },
+       {
+        "name": "Philosophy"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Anthropology, General"
+       },
+       {
+        "name": "Economics, General"
+       },
+       {
+        "name": "Geography"
+       },
+       {
+        "name": "International Relations and Affairs"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Social Sciences, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Acting"
+       },
+       {
+        "name": "Art History, Criticism and Conservation"
+       },
+       {
+        "name": "Cinematography and Film/Video Production"
+       },
+       {
+        "name": "Dance, General"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Film/Cinema/Media Studies"
+       },
+       {
+        "name": "Fine/Studio Arts, General"
+       },
+       {
+        "name": "Intermedia/Multimedia"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Photography"
+       },
+       {
+        "name": "Playwriting and Screenwriting"
+       },
+       {
+        "name": "Sculpture"
+       },
+       {
+        "name": "Technical Theatre/Theatre Design and Technology"
+       },
+       {
+        "name": "Visual and Performing Arts, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.simons-rock.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.simons-rock.edu/",
+      "ratio": "6 to 1",
+      "population": "328 (all undergraduate)",
+      "type": "4-year, primarily associate's, Private not-for-profit"
+     },
+     {
+      "name": "Bastyr University\nKenmore, Washington",
+      "majors": [
+       {
+        "name": "Culinary, Entertainment, and Personal Services"
+       },
+       {
+        "name": "Culinary Science/Culinology"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Family and Consumer Sciences/Human Sciences"
+       },
+       {
+        "name": "Human Nutrition"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Acupuncture and Oriental Medicine"
+       },
+       {
+        "name": "Ayurvedic Medicine/Ayurveda"
+       },
+       {
+        "name": "Direct Entry Midwifery"
+       },
+       {
+        "name": "Herbalism/Herbalist"
+       },
+       {
+        "name": "Maternal and Child Health"
+       },
+       {
+        "name": "Naturopathic Medicine/Naturopathy"
+       },
+       {
+        "name": "Public Health, General"
+       },
+       {
+        "name": "Traditional Chinese Medicine and Chinese Herbology"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Human Biology"
+       },
+       {
+        "name": "Nutrition Sciences"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Natural Resources/Conservation, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Counseling Psychology"
+       },
+       {
+        "name": "Psychology, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.bastyr.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.bastyr.edu/",
+      "ratio": "10 to 1",
+      "population": "751 (75 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Beacon College\nLeesburg, Florida",
+      "tuition": "$44,850",
+      "majors": [
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer and Information Sciences, General"
+       },
+       {
+        "name": "Web Page, Digital/Multimedia and Information Resources Design"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "Humanities/Humanistic Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Anthrozoology"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Human Services, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Fine/Studio Arts, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.beaconcollege.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=www.beaconcollege.edu/",
+      "ratio": "11 to 1",
+      "population": "460 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Be'er Yaakov Talmudic Seminary\nSpring Valley, New York",
+      "tuition": "$11,490",
+      "majors": [
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Talmudic Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.byts.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.byts.edu/",
+      "ratio": "21 to 1",
+      "population": "576 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Beis Medrash Heichal Dovid\nFar Rockaway, New York",
+      "tuition": "$11,100",
+      "majors": [
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Talmudic Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.heichaldovid.org/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.heichaldovid.org/",
+      "ratio": "28 to 1",
+      "population": "170 (155 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Bennett College\nGreensboro, North Carolina",
+      "tuition": "$18,550",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Journalism, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer and Information Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "English/Language Arts Teacher Education"
+       },
+       {
+        "name": "Special Education and Teaching, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Social Work"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Fine and Studio Arts Management"
+       },
+       {
+        "name": "Visual and Performing Arts, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.bennett.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=www.bennett.edu/",
+      "ratio": "9 to 1",
+      "population": "207 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Bennington College\nBennington, Vermont",
+      "tuition": "$59,638",
+      "majors": [
+       {
+        "name": "Architecture and Related Services"
+       },
+       {
+        "name": "Architecture"
+       },
+       {
+        "name": "Environmental Design/Architecture"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Area, Ethnic, Cultural, Gender, and Group Studies"
+       },
+       {
+        "name": "African Studies"
+       },
+       {
+        "name": "African-American/Black Studies"
+       },
+       {
+        "name": "Asian Studies/Civilization"
+       },
+       {
+        "name": "Ethnic, Cultural Minority, Gender, and Group Studies, Other"
+       },
+       {
+        "name": "Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies"
+       },
+       {
+        "name": "Latin American Studies"
+       },
+       {
+        "name": "Women's Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biochemistry"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Botany/Plant Biology"
+       },
+       {
+        "name": "Ecology"
+       },
+       {
+        "name": "Evolutionary Biology"
+       },
+       {
+        "name": "Neuroscience"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Business/Managerial Economics"
+       },
+       {
+        "name": "Entrepreneurship/Entrepreneurial Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Communication and Media Studies, Other"
+       },
+       {
+        "name": "Communication, General"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs, Other"
+       },
+       {
+        "name": "Digital Communication and Media/Multimedia"
+       },
+       {
+        "name": "Journalism"
+       },
+       {
+        "name": "Speech Communication and Rhetoric"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communications Technologies/Technicians and Support Services"
+       },
+       {
+        "name": "Animation, Interactive Technology, Video Graphics, and Special Effects"
+       },
+       {
+        "name": "Recording Arts Technology/Technician"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer and Information Sciences, General"
+       },
+       {
+        "name": "Computer Graphics"
+       },
+       {
+        "name": "Computer Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Early Childhood Education and Teaching"
+       },
+       {
+        "name": "Education, General"
+       },
+       {
+        "name": "English/Language Arts Teacher Education"
+       },
+       {
+        "name": "French Language Teacher Education"
+       },
+       {
+        "name": "Mathematics Teacher Education"
+       },
+       {
+        "name": "Music Teacher Education"
+       },
+       {
+        "name": "Social Studies Teacher Education"
+       },
+       {
+        "name": "Spanish Language Teacher Education"
+       },
+       {
+        "name": "Teacher Education, Multiple Levels"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "Creative Writing"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "English Language and Literature/Letters, Other"
+       },
+       {
+        "name": "General Literature"
+       },
+       {
+        "name": "Writing, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Family and Consumer Sciences/Human Sciences"
+       },
+       {
+        "name": "Child Development"
+       },
+       {
+        "name": "Foods, Nutrition, and Related Services, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "Applied Linguistics"
+       },
+       {
+        "name": "Chinese Language and Literature"
+       },
+       {
+        "name": "Foreign Languages and Literatures, General"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics, Other"
+       },
+       {
+        "name": "French Language and Literature"
+       },
+       {
+        "name": "Germanic Languages, Literatures, and Linguistics, General"
+       },
+       {
+        "name": "Italian Language and Literature"
+       },
+       {
+        "name": "Japanese Language and Literature"
+       },
+       {
+        "name": "Language Interpretation and Translation"
+       },
+       {
+        "name": "Linguistics"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Public Health, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Legal Professions and Studies"
+       },
+       {
+        "name": "Non-Professional Legal Studies, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "General Studies"
+       },
+       {
+        "name": "Humanities/Humanistic Studies"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities, Other"
+       },
+       {
+        "name": "Liberal Arts and Sciences/Liberal Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Library Science"
+       },
+       {
+        "name": "Archives/Archival Administration"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Applied Mathematics, General"
+       },
+       {
+        "name": "Mathematical Biology"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "Biological and Physical Sciences"
+       },
+       {
+        "name": "Cultural Studies/Critical Theory and Analysis"
+       },
+       {
+        "name": "International/Globalization Studies"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, Other"
+       },
+       {
+        "name": "Museology/Museum Studies"
+       },
+       {
+        "name": "Peace Studies and Conflict Resolution"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Science"
+       },
+       {
+        "name": "Environmental Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Jewish/Judaic Studies"
+       },
+       {
+        "name": "Philosophy"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Astronomy"
+       },
+       {
+        "name": "Astrophysics"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Geology/Earth Science, General"
+       },
+       {
+        "name": "Hydrology and Water Resources Science"
+       },
+       {
+        "name": "Physical Sciences, General"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Applied Psychology"
+       },
+       {
+        "name": "Cognitive Psychology and Psycholinguistics"
+       },
+       {
+        "name": "Developmental and Child Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Psychology, Other"
+       },
+       {
+        "name": "Social Psychology"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Community Organization and Advocacy"
+       },
+       {
+        "name": "Public Policy Analysis, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Anthropology, General"
+       },
+       {
+        "name": "Anthropology, Other"
+       },
+       {
+        "name": "Cultural Anthropology"
+       },
+       {
+        "name": "Development Economics and International Development"
+       },
+       {
+        "name": "Econometrics and Quantitative Economics"
+       },
+       {
+        "name": "Economics, General"
+       },
+       {
+        "name": "Economics, Other"
+       },
+       {
+        "name": "Geography"
+       },
+       {
+        "name": "International Relations and Affairs"
+       },
+       {
+        "name": "Medical Anthropology"
+       },
+       {
+        "name": "Political Science and Government, General"
+       },
+       {
+        "name": "Political Science and Government, Other"
+       },
+       {
+        "name": "Social Sciences, General"
+       },
+       {
+        "name": "Social Sciences, Other"
+       },
+       {
+        "name": "Sociology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Acting"
+       },
+       {
+        "name": "Art History, Criticism and Conservation"
+       },
+       {
+        "name": "Art/Art Studies, General"
+       },
+       {
+        "name": "Ceramic Arts and Ceramics"
+       },
+       {
+        "name": "Cinematography and Film/Video Production"
+       },
+       {
+        "name": "Costume Design"
+       },
+       {
+        "name": "Dance, General"
+       },
+       {
+        "name": "Design and Visual Communications, General"
+       },
+       {
+        "name": "Digital Arts"
+       },
+       {
+        "name": "Directing and Theatrical Production"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Drawing"
+       },
+       {
+        "name": "Fashion/Apparel Design"
+       },
+       {
+        "name": "Film/Cinema/Media Studies"
+       },
+       {
+        "name": "Game and Interactive Media Design"
+       },
+       {
+        "name": "Graphic Design"
+       },
+       {
+        "name": "Intermedia/Multimedia"
+       },
+       {
+        "name": "Music Performance, General"
+       },
+       {
+        "name": "Music Theory and Composition"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Music, Other"
+       },
+       {
+        "name": "Painting"
+       },
+       {
+        "name": "Photography"
+       },
+       {
+        "name": "Playwriting and Screenwriting"
+       },
+       {
+        "name": "Printmaking"
+       },
+       {
+        "name": "Sculpture"
+       },
+       {
+        "name": "Sound Arts"
+       },
+       {
+        "name": "Technical Theatre/Theatre Design and Technology"
+       },
+       {
+        "name": "Theatre Literature, History and Criticism"
+       },
+       {
+        "name": "Visual and Performing Arts, General"
+       },
+       {
+        "name": "Visual and Performing Arts, Other"
+       },
+       {
+        "name": "Voice and Opera"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.bennington.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=www.bennington.edu/",
+      "ratio": "10 to 1",
+      "population": "884 (771 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Beth Medrash Meor Yitzchok\nMonsey, New York",
+      "tuition": "$11,400",
+      "majors": [
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Talmudic Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "bethmedrashmeoryitzchok.com/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=bethmedrashmeoryitzchok.com/",
+      "ratio": "15 to 1",
+      "population": "184 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Beth Medrash of Asbury Park\nLakewood, New Jersey",
+      "tuition": "$12,350",
+      "majors": [
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Talmudic Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "baismedrashzichronmeir.com/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=baismedrashzichronmeir.com/",
+      "ratio": "9 to 1",
+      "population": "54 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Bethany College\nLindsborg, Kansas",
+      "tuition": "$31,215",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services, Other"
+       },
+       {
+        "name": "Business/Commerce, General"
+       },
+       {
+        "name": "Finance, General"
+       },
+       {
+        "name": "Marketing/Marketing Management, General"
+       },
+       {
+        "name": "Operations Management and Supervision"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Art Teacher Education"
+       },
+       {
+        "name": "Biology Teacher Education"
+       },
+       {
+        "name": "Business and Innovation/Entrepreneurship Teacher Education"
+       },
+       {
+        "name": "Chemistry Teacher Education"
+       },
+       {
+        "name": "Education, General"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "English/Language Arts Teacher Education"
+       },
+       {
+        "name": "Mathematics Teacher Education"
+       },
+       {
+        "name": "Music Teacher Education"
+       },
+       {
+        "name": "Physical Education Teaching and Coaching"
+       },
+       {
+        "name": "Social Science Teacher Education"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Engineering"
+       },
+       {
+        "name": "Pre-Engineering"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Writing, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Health Professions and Related Programs"
+       },
+       {
+        "name": "Art Therapy/Therapist"
+       },
+       {
+        "name": "Athletic Training/Trainer"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services"
+       },
+       {
+        "name": "Corrections and Criminal Justice, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities"
+       },
+       {
+        "name": "General Studies"
+       },
+       {
+        "name": "Liberal Arts and Sciences, General Studies and Humanities, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Parks, Recreation, Leisure, Fitness, and Kinesiology"
+       },
+       {
+        "name": "Sport and Fitness Administration/Management"
+       },
+       {
+        "name": "Sports, Kinesiology, and Physical Education/Fitness, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Economics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Digital Arts"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Fine/Studio Arts, General"
+       },
+       {
+        "name": "Game and Interactive Media Design"
+       },
+       {
+        "name": "Music Performance, General"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NAIA Division II\nVarsity Men's and Women's TeamsMenWomen\nBaseball60–\nBasketball5935\nFootball75–\nGolf1810\nSoccer3726\nSoftball–40\nTennis912\nTrack and Field, Indoor3021\nTrack and Field, Outdoor2421\nTrack and Field, X-Country3021\nVolleyball–27\nWrestling20–\nVarsity Coed TeamsMenWomen\nOther Sports4339\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.bethanylb.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=www.bethanylb.edu/",
+      "ratio": "14 to 1",
+      "population": "737 (all undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Bethany College\nBethany, West Virginia",
+      "tuition": "$31,600",
+      "majors": [
+       {
+        "name": "Biological and Biomedical Sciences"
+       },
+       {
+        "name": "Biology/Biological Sciences, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Business, Management, Marketing, and Related Support Services"
+       },
+       {
+        "name": "Accounting"
+       },
+       {
+        "name": "Business Administration and Management, General"
+       },
+       {
+        "name": "Finance, General"
+       },
+       {
+        "name": "Marketing/Marketing Management, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Communication, Journalism, and Related Programs"
+       },
+       {
+        "name": "Speech Communication and Rhetoric"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Computer and Information Sciences and Support Services"
+       },
+       {
+        "name": "Computer Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Education, General"
+       },
+       {
+        "name": "Elementary Education and Teaching"
+       },
+       {
+        "name": "Physical Education Teaching and Coaching"
+       },
+       {
+        "name": "Social Studies Teacher Education"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "English Language and Literature/Letters"
+       },
+       {
+        "name": "English Language and Literature, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Foreign Languages, Literatures, and Linguistics"
+       },
+       {
+        "name": "Spanish Language and Literature"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "History"
+       },
+       {
+        "name": "History, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Mathematics and Statistics"
+       },
+       {
+        "name": "Mathematics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Multi/Interdisciplinary Studies"
+       },
+       {
+        "name": "International/Globalization Studies"
+       },
+       {
+        "name": "Multi-/Interdisciplinary Studies, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Natural Resources and Conservation"
+       },
+       {
+        "name": "Environmental Science"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Philosophy and Religious Studies"
+       },
+       {
+        "name": "Religion/Religious Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Physical Sciences"
+       },
+       {
+        "name": "Chemistry, General"
+       },
+       {
+        "name": "Physical Sciences, General"
+       },
+       {
+        "name": "Physics, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Psychology"
+       },
+       {
+        "name": "Educational Psychology"
+       },
+       {
+        "name": "Psychology, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Public Administration and Social Service Professions"
+       },
+       {
+        "name": "Social Work"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Social Sciences"
+       },
+       {
+        "name": "Economics, General"
+       },
+       {
+        "name": "International Relations and Affairs"
+       },
+       {
+        "name": "Political Science and Government, Other"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Visual and Performing Arts"
+       },
+       {
+        "name": "Drama and Dramatics/Theatre Arts, General"
+       },
+       {
+        "name": "Music, General"
+       },
+       {
+        "name": "Visual and Performing Arts, General"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "Athletics Participation\nSanction Body: NCAA Division III with football\nVarsity Men's and Women's TeamsMenWomen\nAll Track Combined2931\nBaseball38–\nBasketball1517\nFootball80–\nLacrosse1814\nSoccer3114\nSoftball–13\nSwimming55\nTennis–7\nVolleyball–26\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.bethanywv.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?location=www.bethanywv.edu/",
+      "ratio": "12 to 1",
+      "population": "559 (545 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Bethany Global University\nBloomington, Minnesota",
+      "tuition": "$16,100",
+      "majors": [
+       {
+        "name": "Education"
+       },
+       {
+        "name": "Montessori Teacher Education"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Theology and Religious Vocations"
+       },
+       {
+        "name": "Missions/Missionary Studies"
+       },
+       {
+        "name": "Category total"
+       },
+       {
+        "name": "Grand total"
+       }
+      ],
+      "sports": "No varsity sports data reported for this institution. Data on varsity athletics are submitted annually as required by the Equity in Athletics Disclosure Act (EADA), by all co-educational postsecondary institutions that have an intercollegiate athletics program. For the most recent data collection, EADA did not collect data on varsity athletics for programs that were cancelled due to the Coronavirus Pandemic.\nFor further information on varsity athletic teams please visit the OPE Athletics Home Page.",
+      "website": "www.bethanygu.edu/",
+      "website_url": "http://nces.ed.gov/transfer.asp?sec=true&location=www.bethanygu.edu/",
+      "ratio": "27 to 1",
+      "population": "328 (284 undergraduate)",
+      "type": "4-year, Private not-for-profit"
+     },
+     {
+      "name": "Bethany Lutheran College\nMankato, Minnesota"
+     }
+    ]
+   }
